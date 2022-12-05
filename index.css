@@ -26,6 +26,7 @@ button {
   color: #8c082c;
   width: 150px;
   background: #f2af5c;
+  border: 1px solid #f2af5c;
   padding-top: 5px;
   padding-bottom: 5px;
   font-weight: bold;
@@ -39,4 +40,5 @@ button {
 button:hover {
   color: #f2af5c;
   background: #8c082c;
+  border: 1px solid #f2af5c;
 }
